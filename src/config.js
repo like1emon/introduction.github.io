@@ -23,7 +23,7 @@ export default {
     }, {
         icon: 'icon-tubiao-',
         title: '前端功能',
-        msg: ['JS完成常见的前端功能', '用Axios读取后台数据']
+        msg: ['JS完成常见的前端功能']
     }, {
         icon: 'icon-qianbi1',
         title: '软件文档的撰写',
